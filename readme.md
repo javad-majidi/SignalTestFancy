@@ -26,6 +26,7 @@ Ensure your project has the following structure before using Docker:
 ├── index.php          # Entry point
 ├── Dockerfile
 ├── docker-compose.yml
+├── run100.sh
 └── README.md
 ```
 
@@ -93,7 +94,7 @@ volumes:
 
 This will make changes to your local files immediately available in the container.
 
-# For Running follow this:
+# For Running <font size="5">without docker</font> follow this:
 # 📄 File Rotation API - README
 
 ## 🛠 Description
