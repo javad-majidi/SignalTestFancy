@@ -94,7 +94,7 @@ volumes:
 
 This will make changes to your local files immediately available in the container.
 
-# For Running <font size="5">without docker</font> follow this:
+# For Running <font size="5">**without docker**</font> follow this:
 # 📄 File Rotation API - README
 
 ## 🛠 Description
